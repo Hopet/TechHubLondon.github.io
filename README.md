@@ -1,7 +1,7 @@
 TechHub.London
 ==============
 
-This is the GitHub page for Techhub.London, TechHub’s guide to the best of the local area. All of the information on the website is Open Source, and if you have better suggestions, you are welcome to edit the code and add them! 
+This is the GitHub page for [Techhub.London](http://TechHub.London), TechHub’s guide to the best of the local area. All of the information on the website is Open Source, and if you have better suggestions, you are welcome to edit the code and add them! 
 
 You can find and edit the source in the [dev](https://github.com/TechHubLondon/TechHubLondon.github.io.github.io/tree/dev) branch, while the live pages are in the [master](https://github.com/TechHubLondon/TechHubLondon.github.io.github.io/tree/master) branch.  
 Feeling curious? See how we built the project in the [source](https://github.com/TechHubLondon/TechHubLondon.github.io.github.io/tree/source) branch.
@@ -45,4 +45,4 @@ Please edit the [dev](https://github.com/TechHubLondon/TechHubLondon.github.io.g
 
 ## License
 
-TechHub.London is licensed under the terms of the MIT Licence - see the License.txt file for more details. 
+[TechHub.London](http://techhub.london) is licensed under the terms of the MIT Licence - see the License.txt file for more details. 
